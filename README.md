@@ -1,5 +1,4 @@
 # Kaggle-Flowers-Classification
-Kaggle Flowers Classification
 
 This python app is developed based on kaggle competion ```https://www.kaggle.com/alxmamaev/flowers-recognition```
 
